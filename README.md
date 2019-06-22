@@ -10,7 +10,7 @@ Generating public/private rsa key pair.`
 `Enter file in which to save the key (/c/Users/Burra Kishore Kumar/.ssh/id_rsa):` click on the enter button
 `Enter passphrase (empty for no passphrase):` enter your system/laptop pwd
 `Enter same passphrase again:`enter your system/laptop pwd
-`Your identification has been saved in /c/Users/Burra Kishore Kumar/.ssh/id_rsa.
+```Your identification has been saved in /c/Users/Burra Kishore Kumar/.ssh/id_rsa.
 Your public key has been saved in /c/Users/Burra Kishore Kumar/.ssh/id_rsa.pub.
 The key fingerprint is:
 SHA256:GnuYry4G5VSJEHyAdXuAcN5PK0Db6tLF+U5LPqe5CMY burrakishorekumar@gmail.com
@@ -26,7 +26,7 @@ The key's randomart image is:
 | o .o*.=.        |
 |   ..oX*.        |
 +----[SHA256]-----+
-`
+```
 
 ######Generating the Agent id by using this cmd:
 - `$ eval $(ssh-agent -s)` click on the enter button.
