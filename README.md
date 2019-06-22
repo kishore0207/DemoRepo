@@ -2,7 +2,7 @@
 This is my first demo project.
 ### Adding SSH key to the GitHub:
 
-######`These are the commands for adding SSH key to windows:`
+###### `These are the commands for adding SSH key to windows:`
 
 - `BurraKishoreKumar@DESKTOP-NV0EHRS MINGW64 /f/Git_Workspace/gitTest (master)`
 `$ ssh-keygen -t rsa -b 4096 -C "burrakishorekumar@gmail.com"
@@ -28,16 +28,16 @@ The key's randomart image is:
 +----[SHA256]-----+
 ```
 
-######Generating the Agent id by using this cmd:
+###### Generating the Agent id by using this cmd:
 - `$ eval $(ssh-agent -s)` click on the enter button.
 - `Agent pid 1383` This is the Agent id.
 
-######Adding the SSH key:
+###### Adding the SSH key:
 - `$ ssh-add ~/.ssh/id_rsa` click on the enter button.
 - `Enter passphrase for /c/Users/Burra Kishore Kumar/.ssh/id_rsa:` enter the password
 - `Identity added: /c/Users/Burra Kishore Kumar/.ssh/id_rsa (burrakishorekumar@gmail.com)`: we got this Identity.
 
-######Now add both of SSH key and GitHub.
+###### Now add both of SSH key and GitHub.
 - For Window Users: `$clip ~/.ssh/id_rsa.pub`
 - For Mac Users: `$ pbcopy < ~/.ssh/id_rsa.pub`
 - After entered the cmd then click on the enter button
