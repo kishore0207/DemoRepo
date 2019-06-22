@@ -7,8 +7,8 @@ This is my first demo project.
 - `BurraKishoreKumar@DESKTOP-NV0EHRS MINGW64 /f/Git_Workspace/gitTest (master): $ ssh-keygen -t rsa -b 4096 -C "burrakishorekumar@gmail.com"`
 `Generating public/private rsa key pair.`
 `Enter file in which to save the key (/c/Users/Burra Kishore Kumar/.ssh/id_rsa):` click on the enter button
-`Enter passphrase (empty for no passphrase):` enter your system/laptop pwd
-`Enter same passphrase again:`enter your system/laptop pwd
+`Enter passphrase (empty for no passphrase):` enter your PC/laptop pwd
+`Enter same passphrase again:`enter your PC/laptop pwd
 ```Your identification has been saved in /c/Users/Burra Kishore Kumar/.ssh/id_rsa.
 Your public key has been saved in /c/Users/Burra Kishore Kumar/.ssh/id_rsa.pub.
 The key fingerprint is:
